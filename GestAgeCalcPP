@@ -36,7 +36,7 @@
 <p>Core permissions for Gestational Age Calculator and the third party libraries are:</p>
 
  <ul>
-     <li>uses-permission android:name="android.permission.INTERNET: Used by third party services and libraries</li>
+  <li>uses-permission android:name="android.permission.INTERNET: Used by third party services and libraries</li>
   <li>uses-permission android:name="android.permission.ACCESS_NETWORK_STATE: : Used by third party services and libraries</li>
   <li>uses-permission android:name="android.permission.ACCESS_WIFI_STATE: : Used by third party services and libraries</li>
   <li>uses-permission android:name="android.permission.FOREGROUND_SERVICE: Used for starting foreground service for backup/restore on Android</li>
